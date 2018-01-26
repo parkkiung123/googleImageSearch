@@ -19,4 +19,4 @@ It use google search engine.
 + image search command : scrapy crawl imsearch (cd googleImageSearch)
 
 # Troubleshooting
-+ If image cannot load, update PIL library (pip install --upgrade pillow)
++ If image cannot be loaded, update PIL library (pip install --upgrade pillow)
