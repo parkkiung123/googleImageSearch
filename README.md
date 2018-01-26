@@ -16,7 +16,7 @@ It use google search engine.
 # Usage
 + setting keywords : variable key_words (googleImageSearch/spiders/spider.py)
 + setting the number of images (max limit 100) : variable limit (googleImageSearch/spiders/spider.py)
-+ image search command : scrapy crawl imsearch
++ image search command : scrapy crawl imsearch (cd googleImageSearch)
 
 # Troubleshooting
 + If image cannot load, update PIL library (pip install --upgrade pillow)
