@@ -20,3 +20,6 @@ It use google search engine.
 
 # Troubleshooting
 + If image cannot be loaded, update PIL library (pip install --upgrade pillow)
+
+# Reference
++ https://github.com/hardikvasa/google-images-download
