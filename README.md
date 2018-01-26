@@ -1,7 +1,6 @@
 # googleImageSearch
 
-This is python image search program by scrapy.
-It use google search engine.
+This is python image search program by scrapy.  It use google search engine.
 
 # Development environment
 + python 2.7
