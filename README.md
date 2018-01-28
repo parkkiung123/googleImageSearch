@@ -1,6 +1,6 @@
 # googleImageSearch
 
-This is python image search program by scrapy.
+This is python image search & download program by scrapy.
 
 It use google search engine.
 
